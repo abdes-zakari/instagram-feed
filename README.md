@@ -3,9 +3,9 @@ Get posts from Instgram page whitout Access Token.
 
 
 ## Installation 
-
+```bash
 composer require abdes/instagram-feed
-
+```
 
 ## Usage 
 
