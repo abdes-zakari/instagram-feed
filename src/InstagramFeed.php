@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Insta;
+namespace Instaty;
 
 
 class InstagramFeed
