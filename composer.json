@@ -1,6 +1,6 @@
 {
     "name": "abdes/instagram-feed",
-    "description": "Get posts from Instgram page.",
+    "description": "Get posts from Instgram page whitout token",
     "type": "library",
     "license": "MIT",
     "authors": [
