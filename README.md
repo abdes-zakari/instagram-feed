@@ -1,4 +1,4 @@
-# instagram-feed
+# Instagram-feed
 Get posts from Instgram page whitout Access Token.
 
 
