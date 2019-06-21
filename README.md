@@ -15,10 +15,10 @@ composer require abdes/instagram-feed
 
 require_once __DIR__ . '/vendor/autoload.php';
 
-$username = ""; //instagram Username
-$num = ""; //number of posts
+$username = ['youtube','anjunadeep']; //instagram Username
+$num = "4"; //number of posts
 
-$posts = new Instaty\InstagramFeed($username,$num);
+$posts = new Instaty\InstaFeed($username,$num);
 
 $posts = $posts->getFeeds();
 
